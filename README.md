@@ -1,4 +1,4 @@
-[!MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://DSA-coding-ninjas.io)
+[![MasterHead](https://i.pinimg.com/originals/eb/fa/56/ebfa5668bd2b6a4a2d706a89d56d9751.png)](https://Ashokgupta85.io)
 <h1 align="center">Hi 👋, I'm Ashok Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/004/865/921/original/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg" >
